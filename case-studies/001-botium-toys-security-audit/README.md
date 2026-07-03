@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This case study evaluates the security posture of Botium Toys through a controls and compliance assessment based on industry best practices.
+This case study evaluates the security posture of Botium Toys through a controls and compliance assessment based on the NIST Cybersecurity Framework (CSF) and relevant compliance standards.
 
 The objective was to identify existing security controls, evaluate their effectiveness, assess compliance requirements, and recommend improvements that reduce organizational risk.
 
@@ -81,6 +81,6 @@ A mature security program requires continuous evaluation, improvement, and align
 
 | File | Description |
 |------|-------------|
-| Assessment.pdf | Original assessment scenario |
-| Assessment Checklist.pdf | Completed checklist |
-| Recommendations.pdf | Detailed recommendations |
+| assessment.pdf | Original assessment scenario |
+| assessment-checklist.pdf | Completed checklist |
+| recommendations.pdf | Detailed recommendations |
