@@ -81,6 +81,6 @@ A mature security program requires continuous evaluation, improvement, and align
 
 | File | Description |
 |------|-------------|
-| assessment.pdf | Original assessment scenario |
-| controls-and-compliance-checklist.pdf | Completed checklist |
-| recommendations.pdf | Detailed recommendations |
+| Botium Toys_ Scope, goals, and risk assessment report.pdf | Original assessment scenario |
+| Controls and Compliance Checklist.pdf | Completed checklist |
+| Recommendations.pdf | Detailed recommendations |
