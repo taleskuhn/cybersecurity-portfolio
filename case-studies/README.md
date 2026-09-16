@@ -27,6 +27,7 @@ These case studies aim to demonstrate:
 | # | Case Study | Status |
 |---|------------|--------|
 | 001 | Botium Toys Security Audit | ✅ Completed |
+| 002 | DNS Resolution Failure Analysis | ✅ Completed |
 
 ---
 
